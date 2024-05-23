@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 
 Meu nome é: Alexandre nome sobrenome:Oliveira
 
 Estou estudando na Alura
